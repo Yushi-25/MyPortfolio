@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Snake Game",
+    "imageSrc": "projects/snake.png",
+    "description": "This is a project made to learn the basic of HTML, CSS and JavaScript",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Yushi-25/Snake-Game-"
+  },
+  {
+    "title": "Music App",
+    "imageSrc": "projects/spotify.png",
+    "description": "This is a project is inspired by Spotify App",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Yushi-25/Spotify"
+  }
+]

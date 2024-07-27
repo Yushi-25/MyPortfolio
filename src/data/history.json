@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Full stack Developer",
+    "organisation": "BSES Yamuna Pvt Ltd.",
+    "startDate": "Aug, 2023",
+    "endDate": "Sept 2023",
+    "experiences": ["Developed an E-commerce site", "Reduced load times by 50%"],
+    "imageSrc": "history/bses.jpg"
+  },
+  {
+    "role": "Fund Raiser",
+    "organisation": "Muskurahat Foundation",
+    "startDate": "June, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Raised funds for children NGO", "Worked on public relationships and persuation"],
+    "imageSrc": "history/muskurahat.png"
+  }
+]
